@@ -1,0 +1,7 @@
+google.com:142.250.80.110
+linkedin.com:121.0.341.165
+merrimack.edu:35.169.127.66
+xkcd.com:151.101.0.67
+facebook.com:131.131.12.37
+linkedin.com:241.1.101.167
+instagram.com:101.71.0.101
